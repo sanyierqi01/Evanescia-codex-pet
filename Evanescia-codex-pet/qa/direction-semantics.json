@@ -1,0 +1,119 @@
+{
+  "reviewed_artifact": "final/spritesheet-extended.png",
+  "review_method": "Labeled normal-cell-size and face-detail sheet inspected; torso/boots anchor checked across rows; loop boundaries reviewed.",
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Chin raised away from bow, underside visible, pupils high in both violet eyes; head remains frontal."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Raised chin remains; nose shifts right from frontal center and both pupils aim to the upper-right."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Right cheek profile lengthens, nose points right and eye gaze stays above horizontal; torso still frontal."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Nose projects farther toward right edge, near eye looks right with a slight raised chin; pitch reduces smoothly toward right cardinal."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Three-quarter head, nose and pupils clearly at screen-right; chin level and both face/boots remain visible."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "down-right with subtle vertical pitch",
+      "verdict": "warning",
+      "evidence": "Nose and pupils still right, chin lowers toward collar and brow drops below prior frame; down cue is mild but agrees with clockwise head pitch."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Bangs and upper skull become more visible; gaze descends beneath right-pointing brow, nose remains on right side."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "down-right approaching frontal down",
+      "verdict": "warning",
+      "evidence": "Tucked chin near red bow and downcast eyes make downward gaze clear; nose retains small rightward offset as head returns toward frontal down."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Centered bowed head, forehead prominent, narrowed eyes aim low and chin nearly meets bow; no left/right yaw."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Chin remains tucked and eyes low; nose and face center move slightly left while shoulders stay frontal."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Nose left of head center, leftward eye gaze beneath bangs, chin still down near collar; correct lower-left quadrant."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "down-left with subtle vertical pitch",
+      "verdict": "warning",
+      "evidence": "Strong leftward nose and pupils with chin still slightly lowered versus left cardinal; pitch eases naturally toward horizontal left."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Nose projects unmistakably to screen-left and both visible eyes look left; chin level, torso and sword anchored."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Leftward head yaw remains while chin rises and visible pupil aims above left edge; jaw underside becomes visible."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Raised chin and eyes looking high-left; yaw reduces toward frontal up, with nose still left of central bangs."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "up-left approaching frontal up",
+      "verdict": "warning",
+      "evidence": "Both pupils high, chin elevated; small residual left yaw of nose leads smoothly into 000. Horizontal component is intentionally subtle."
+    }
+  ],
+  "continuity_observations": "No visible scale pops or registration jumps. Transparent gaps flagged by metric occur between long ears and between separated boots/ribbons, consistent with physical silhouette; no seam bands across the face or torso. Both row boundary transitions retain stable feet, torso and attached waist sword."
+}

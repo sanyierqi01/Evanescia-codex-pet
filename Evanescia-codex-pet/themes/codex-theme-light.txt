@@ -1,0 +1,1 @@
+codex-theme-v1:{"codeThemeId":"codex","theme":{"accent":"#A72B69","accentSource":"custom","contrast":45,"fonts":{"code":"Cascadia Code","ui":"Microsoft YaHei UI"},"ink":"#39243C","opaqueWindows":true,"semanticColors":{"diffAdded":"#168046","diffRemoved":"#A62149","skill":"#8055A6"},"surface":"#FFF4FA"},"variant":"light"}
